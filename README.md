@@ -52,5 +52,8 @@ Note
 
 echo is use to create file and file contants
 
+Operation: see case_1.log
+
 see http://www.jianshu.com/p/016e55c25521
+
 see http://www.cnblogs.com/wzben/p/5930538.html
