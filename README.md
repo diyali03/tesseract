@@ -45,3 +45,11 @@ can not remove and upgrade the package, so I use
 `sudo apt-get purge autoremove`
 
 Then reinstall the whole package again.
+
+
+Note
+===
+
+echo is use to create file and file contants
+
+see http://www.jianshu.com/p/016e55c25521

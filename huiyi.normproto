@@ -1,0 +1,15 @@
+4
+linear   essential      -0.250000   0.750000
+linear   non-essential   0.000000   1.000000
+linear   essential       0.000000   1.000000
+linear   essential       0.000000   1.000000
+
+隳 1
+significant   elliptical     1
+	  0.394531  1.079297  0.210938  0.203125
+	  0.000400  0.000400  0.000400  0.000400
+
+易 1
+significant   elliptical     1
+	  0.425781  0.630078  0.207031  0.167969
+	  0.000400  0.000400  0.000400  0.000400
