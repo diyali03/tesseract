@@ -1,5 +1,5 @@
 # Tesseract
-## Install 
+## Install On Mac
 
 Follow the offcial installation guid
 ## First test
@@ -35,3 +35,13 @@ Follow the offcial installation guid
     10 将图像视为单个字符。
 
 
+## Install on Linux
+
+### Have some error about the libleptonica-dev
+can not remove and upgrade the package, so I use 
+
+`sudo apt-get purge runit`
+
+`sudo apt-get purge autoremove`
+
+Then reinstall the whole package again.
