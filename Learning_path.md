@@ -7,7 +7,11 @@ uninstall tesseract old edition and install tesseract with LSTM
 
 
 
+### Install Opencv for python Ubuntu
 
+clone the recent release from github
+preinstalled package can find from Google
+see stackoverflow : how to install opencv on Ubuntu for python 2.7
 
 
 #### 4 Tips
