@@ -13,6 +13,12 @@ clone the recent release from github
 preinstalled package can find from Google
 see stackoverflow : how to install opencv on Ubuntu for python 2.7
 
+install libgtk2.0-dev
+===
+
+Failed, so suck to install opencv on ubuntu, I use it on mac.
+
+
 
 #### 4 Tips
 
