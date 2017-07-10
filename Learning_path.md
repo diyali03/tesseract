@@ -47,3 +47,12 @@ Failed, so suck to install opencv on ubuntu, I use it on mac.
     8 将图像视为单个词。
     9 将图像视为圆中的单个词。
     10 将图像视为单个字符。
+
+
+
+###  baidu aip
+Then I use baidu aip, run pretty well
+
+try to find the way that it use to recognition.
+
+btw, can not use another ocr model, which based on keras on Ubuntu. try to fix it
